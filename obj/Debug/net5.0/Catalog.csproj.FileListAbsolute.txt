@@ -43,3 +43,11 @@ C:\Users\konea\Documents\.NET\Catalog\bin\Debug\net5.0\runtimes\win\native\snapp
 C:\Users\konea\Documents\.NET\Catalog\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
 C:\Users\konea\Documents\.NET\Catalog\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
 C:\Users\konea\Documents\.NET\Catalog\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\konea\Documents\.NET\Catalog\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\konea\Documents\.NET\Catalog\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\konea\Documents\.NET\Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\konea\Documents\.NET\Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\konea\Documents\.NET\Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\konea\Documents\.NET\Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\konea\Documents\.NET\Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\konea\Documents\.NET\Catalog\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
